@@ -1,0 +1,2 @@
+# Fraud-Detection-app
+Built and deployed a machine learning–based fraud detection system using Python and Scikit-learn. Performed in-depth EDA to uncover transaction patterns and addressed class imbalance challenges. The model achieved a recall of 51%, highlighting its ability to detect a portion of fraudulent transactions, while revealing the need for further optimization in precision and overall performance.

@@ -1,0 +1,25 @@
+# Fraud Detection Streamlit App - Requirements
+# Python 3.9+
+
+# Core Streamlit
+streamlit
+
+# Data Processing
+pandas
+numpy
+
+# Machine Learning
+scikit-learn
+
+# Visualization
+plotly
+
+# Optional: For enhanced features
+# streamlit-authenticator  # For authentication
+# streamlit-ex         # For additional components
+
+streamlit
+pandas
+numpy
+scikit-learn
+plotly
